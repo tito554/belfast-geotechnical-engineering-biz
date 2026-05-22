@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Belfast
+
+> Geotechnical engineering services in Belfast, United Kingdom.
+
+## Services
+- [Anchors](https://belfast.geotechnical-engineering.biz/anchors/)
+- [Atterberg Limits](https://belfast.geotechnical-engineering.biz/atterberg-limits/)
+- [Cbr Road](https://belfast.geotechnical-engineering.biz/cbr-road/)
+- [Cpt Test](https://belfast.geotechnical-engineering.biz/cpt-test/)
+- [Deep Excavations](https://belfast.geotechnical-engineering.biz/deep-excavations/)
+- [Excavation Monitoring](https://belfast.geotechnical-engineering.biz/excavation-monitoring/)
+- [Excavations](https://belfast.geotechnical-engineering.biz/excavations/)
+- [Flexible Pavement](https://belfast.geotechnical-engineering.biz/flexible-pavement/)
+- [Footings](https://belfast.geotechnical-engineering.biz/footings/)
+- [Foundations](https://belfast.geotechnical-engineering.biz/foundations/)
+- [Grain Size](https://belfast.geotechnical-engineering.biz/grain-size/)
+- [Ground Improvement](https://belfast.geotechnical-engineering.biz/ground-improvement/)
+- [Grouting](https://belfast.geotechnical-engineering.biz/grouting/)
+- [In Situ Permeability](https://belfast.geotechnical-engineering.biz/in-situ-permeability/)
+- [Investigation](https://belfast.geotechnical-engineering.biz/investigation/)
+- [Lab In Situ](https://belfast.geotechnical-engineering.biz/lab-in-situ/)
+- [Laboratory](https://belfast.geotechnical-engineering.biz/laboratory/)
+- [Liquefaction](https://belfast.geotechnical-engineering.biz/liquefaction/)
+- [Masw](https://belfast.geotechnical-engineering.biz/masw/)
+- [Mat Foundations](https://belfast.geotechnical-engineering.biz/mat-foundations/)
+- [Piles](https://belfast.geotechnical-engineering.biz/piles/)
+- [Proctor Tests](https://belfast.geotechnical-engineering.biz/proctor-tests/)
+- [Resistivity](https://belfast.geotechnical-engineering.biz/resistivity/)
+- [Retaining Walls](https://belfast.geotechnical-engineering.biz/retaining-walls/)
+- [Rigid Pavement](https://belfast.geotechnical-engineering.biz/rigid-pavement/)
+- [Road Geotechnics](https://belfast.geotechnical-engineering.biz/road-geotechnics/)
+- [Sand Cone Density](https://belfast.geotechnical-engineering.biz/sand-cone-density/)
+- [Seismic](https://belfast.geotechnical-engineering.biz/seismic/)
+- [Seismic Isolation](https://belfast.geotechnical-engineering.biz/seismic-isolation/)
+- [Seismic Microzonation](https://belfast.geotechnical-engineering.biz/seismic-microzonation/)
+- [Seismic Refraction](https://belfast.geotechnical-engineering.biz/seismic-refraction/)
+- [Slope Stability](https://belfast.geotechnical-engineering.biz/slope-stability/)
+- [Slopes](https://belfast.geotechnical-engineering.biz/slopes/)
+- [Soft Ground Tunnels](https://belfast.geotechnical-engineering.biz/soft-ground-tunnels/)
+- [Spt Drilling](https://belfast.geotechnical-engineering.biz/spt-drilling/)
+- [Stone Columns](https://belfast.geotechnical-engineering.biz/stone-columns/)
+- [Test Pits](https://belfast.geotechnical-engineering.biz/test-pits/)
+- [Triaxial](https://belfast.geotechnical-engineering.biz/triaxial/)
+- [Vibrocompaction](https://belfast.geotechnical-engineering.biz/vibrocompaction/)
+
+## Contact
+- Website: https://belfast.geotechnical-engineering.biz/
+
+## About
+This site provides geotechnical engineering services in Belfast, United Kingdom.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
